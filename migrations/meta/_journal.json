@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700416398135,
+      "tag": "0000_marvelous_proteus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700416951644,
+      "tag": "0001_lethal_living_tribunal",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1700418232467,
+      "tag": "0002_sticky_lorna_dane",
+      "breakpoints": true
+    }
+  ]
+}
